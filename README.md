@@ -11,7 +11,7 @@ The course is part of the massive open online course (MOOC) series from the Depa
 * **Introduction to Programming**: Parts 1–7
 * **Advanced Course in Programming**: Parts 8–14
 
-To pass each course, you must complete the programming exercises and participate in the corresponding exam. The course materials are freely available online and the course runs from January 13, 2025 until the end of 2025 ([programming-25.mooc.fi][1]).
+To pass each course, you must complete the programming exercises and participate in the corresponding exam. The course materials are freely available online and the course runs from January 13, 2025 until the end of 2025.
 
 ## Repository Contents
 
@@ -29,7 +29,7 @@ The goal of this repository is to **document my learning journey** in Python as 
 
 #### Part 1
 
-Getting started with Python, reading user input, variables, arithmetic operations, and conditional statements. ([programming-25.mooc.fi][2])
+Getting started with Python, reading user input, variables, arithmetic operations, and conditional statements.
 
 1. Getting started
 2. Information from the user
@@ -39,7 +39,7 @@ Getting started with Python, reading user input, variables, arithmetic operation
 
 #### Part 2
 
-Introduction to programming terminology, more on conditionals, combining conditions, and simple loops. ([programming-25.mooc.fi][3])
+Introduction to programming terminology, more on conditionals, combining conditions, and simple loops.
 
 1. Programming terminology
 2. More conditionals
@@ -48,7 +48,7 @@ Introduction to programming terminology, more on conditionals, combining conditi
 
 #### Part 3
 
-Loops with conditions, string manipulation, additional loops, and defining functions. ([programming-25.mooc.fi][4])
+Loops with conditions, string manipulation, additional loops, and defining functions.
 
 1. Loops with conditions
 2. Working with strings
@@ -57,7 +57,7 @@ Loops with conditions, string manipulation, additional loops, and defining funct
 
 #### Part 4
 
-Using Visual Studio Code, Python interpreter and debugger, functions, lists, definite iteration, formatted printing, and advanced string/list operations. ([programming-25.mooc.fi][5])
+Using Visual Studio Code, Python interpreter and debugger, functions, lists, definite iteration, formatted printing, and advanced string/list operations.
 
 1. The Visual Studio Code editor, Python interpreter and built‑in debugging tool
 2. More functions
@@ -68,7 +68,7 @@ Using Visual Studio Code, Python interpreter and debugger, functions, lists, def
 
 #### Part 5
 
-Deeper list operations, references, dictionaries, and tuples. ([programming-25.mooc.fi][6])
+Deeper list operations, references, dictionaries, and tuples.
 
 1. More lists
 2. References
@@ -77,7 +77,7 @@ Deeper list operations, references, dictionaries, and tuples. ([programming-25.m
 
 #### Part 6
 
-File I/O, error handling, and variable scope (local vs global). ([programming-25.mooc.fi][7])
+File I/O, error handling, and variable scope (local vs global).
 
 1. Reading files
 2. Writing files
@@ -86,7 +86,7 @@ File I/O, error handling, and variable scope (local vs global). ([programming-25
 
 #### Part 7
 
-Modules, randomness, date/time handling, data processing, creating custom modules, and miscellaneous Python features. ([programming-25.mooc.fi][8])
+Modules, randomness, date/time handling, data processing, creating custom modules, and miscellaneous Python features.
 
 1. Modules
 2. Randomness
@@ -99,7 +99,7 @@ Modules, randomness, date/time handling, data processing, creating custom module
 
 #### Part 8
 
-Object‑oriented basics: objects and methods, classes and objects, defining classes and methods, and example classes. ([programming-25.mooc.fi][9])
+Object‑oriented basics: objects and methods, classes and objects, defining classes and methods, and example classes.
 
 1. Objects and methods
 2. Classes and objects
@@ -109,7 +109,7 @@ Object‑oriented basics: objects and methods, classes and objects, defining cla
 
 #### Part 9
 
-Advanced OOP: object references, attributes, encapsulation, method scope, class attributes, and further class examples. ([programming-25.mooc.fi][10])
+Advanced OOP: object references, attributes, encapsulation, method scope, class attributes, and further class examples.
 
 1. Objects and references
 2. Objects as attributes
@@ -120,7 +120,7 @@ Advanced OOP: object references, attributes, encapsulation, method scope, class 
 
 #### Part 10
 
-Class hierarchies, access modifiers, OOP techniques, and developing a larger application. ([programming-25.mooc.fi][11])
+Class hierarchies, access modifiers, OOP techniques, and developing a larger application.
 
 1. Class hierarchies
 2. Access modifiers
@@ -129,7 +129,7 @@ Class hierarchies, access modifiers, OOP techniques, and developing a larger app
 
 #### Part 11
 
-List comprehensions, advanced comprehensions, recursion, and recursion examples. ([programming-25.mooc.fi][12])
+List comprehensions, advanced comprehensions, recursion, and recursion examples.
 
 1. List comprehensions
 2. More comprehensions
@@ -138,7 +138,7 @@ List comprehensions, advanced comprehensions, recursion, and recursion examples.
 
 #### Part 12
 
-Higher‑order functions, generators, functional programming paradigms, and regular expressions. ([programming-25.mooc.fi][13])
+Higher‑order functions, generators, functional programming paradigms, and regular expressions.
 
 1. Functions as arguments
 2. Generators
@@ -147,7 +147,7 @@ Higher‑order functions, generators, functional programming paradigms, and regu
 
 #### Part 13
 
-Game programming with Pygame: basics of Pygame, animation, event handling, and advanced Pygame techniques. ([programming-25.mooc.fi][14])
+Game programming with Pygame: basics of Pygame, animation, event handling, and advanced Pygame techniques.
 
 1. Pygame
 2. Animation
@@ -156,7 +156,7 @@ Game programming with Pygame: basics of Pygame, animation, event handling, and a
 
 #### Part 14
 
-Capstone game project: building a game, robot and boxes mechanics, finishing touches, and creating your own game. ([programming-25.mooc.fi][15])
+Capstone game project: building a game, robot and boxes mechanics, finishing touches, and creating your own game.
 
 1. Game project
 2. Robot and boxes
